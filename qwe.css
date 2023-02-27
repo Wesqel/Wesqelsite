@@ -13,6 +13,7 @@ body{
     justify-content: center;
     width: 100%;
     gap: 50%;
+    margin-top: 10%;
 }
 button{
     width: 10em;
